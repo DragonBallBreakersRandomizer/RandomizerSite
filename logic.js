@@ -60,7 +60,7 @@ const ADGohan = {
         "Masenko",
         "Full Power Energy Wave"
     ],
-    "Super Sayian": [
+    "Super Saiyan": [
         "Kamehameha",
         "Super Kamehameha",
         "Masenko"
@@ -311,7 +311,14 @@ function get_random_moves(character, form) {
         "Cell": Cell,
         "Buu": Buu,
         "GT_Pan": GT_Pan,
-        
+        "Android 16": An16,
+        "Android 17": An17,
+        "Android 18": An18,
+        "Ginyu": Ginyu,
+        "Videl": Videl,
+        "Krillin": Krillin,
+        "Tien": Tien,
+        "Yamcha": Yamcha,
     }
     const transformations = TFMap[character]
     const moves = transformations[form];
@@ -320,8 +327,11 @@ function get_random_moves(character, form) {
 }
 //array of items
 const imagePaths = [
+    "Resize/Goku_Normal_500x500.png",
+    "Resize/Goku_Super Saiyan_500x500.png",
+    "Resize/Goku_Super Saiyan 2_500x500.png",
     "Resize/Adult Gohan_Normal_500x500.png",
-    "Resize/Adult Gohan_Super Sayian_500x500.png",
+    "Resize/Adult Gohan_Super Saiyan_500x500.png",
     "Resize/Adult Gohan_Great Saiyaman 1_500x500.png",
     "Resize/Adult Gohan_Beast_500x500.png",
 ];
@@ -343,10 +353,13 @@ function Stop() {
         const ImgUrl = box.style.backgroundImage
         const imageName = ImgUrl.slice(ImgUrl.lastIndexOf('/') + 1, ImgUrl.lastIndexOf('.'));
         const [character, form] = imageName.split('_');
-        console.log('Box ' + (index + 1) + ' URL: ' + ImgUrl);
-        console.log(imageName)
         const data = get_random_moves(character, form)
-        console.log(data)
+        const resultElement = document.getElementById(`result${index + 1}`);
+        if (data) {
+            resultElement.textContent = `Level ${index + 1}: ${character}, ${form}, ${data.move}`;
+        } else {
+            resultElement.textContent = `Level ${index + 1}: No data found`;
+        }
     })
 }
 document.getElementById("spin").addEventListener('click', Roll);
