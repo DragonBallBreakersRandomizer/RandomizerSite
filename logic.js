@@ -65,11 +65,11 @@ function Roll(){
     rollInterval = setInterval(() => {
         boxes.forEach(box => {
           const randomImageIndex = Math.floor(Math.random() * imagePaths.length);
-          box.style.backgroundImage = `url("${imagePaths[randomImageIndex]}")`;
+          box.style.backgroundImage = "url('" + imagePaths[randomImageIndex] + "')";
         });
     }, 100);
 }
-function stopRolling() {
+function Stop() {
 }
 document.getElementById("spin").addEventListener('click', Roll);
-document.getElementById('stop').addEventListener('click', stopRolling());
+document.getElementById('stop').addEventListener('click', Stop);
