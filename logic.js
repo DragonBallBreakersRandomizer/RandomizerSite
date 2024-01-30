@@ -222,7 +222,7 @@ const Buu = {
     ]
 
 }
-const GT_Pan = {
+const GTPan = {
     "Normal": [
         "Maiden Blast",
         "Full Power Energy Wave",
@@ -262,7 +262,7 @@ const Videl ={
         "Full Power Energy Wave",
         "Justice Rush",
     ],
-    "Great Saaiyaman 2": [
+    "Great Saiyaman 2": [
         "Full Power Energy Blast Volley",
         "Full Power Energy Wave",
         "Justice Combination",
@@ -310,7 +310,7 @@ function get_random_moves(character, form) {
         "Frieza": Frieza,
         "Cell": Cell,
         "Buu": Buu,
-        "GT_Pan": GT_Pan,
+        "GTPan": GTPan,
         "Android 16": An16,
         "Android 17": An17,
         "Android 18": An18,
@@ -356,6 +356,25 @@ const imagePaths = [
     "Resize/Kid Trunks_Super Saiyan_500x500.png",
     "Resize/Adult Trunks_Normal_500x500.png",
     "Resize/Adult Trunks_Super Saiyan_500x500.png",
+    "Resize/Beerus_Normal_500x500.png",
+    "Resize/Whis_Normal_500x500.png",
+    "Resize/Piccolo_Normal_500x500.png",
+    "Resize/Piccolo_Orange_500x500.png",
+    "Resize/Frieza_4th Form_500x500.png",
+    "Resize/Frieza_Golden_500x500.png",
+    "Resize/Cell_Perfect Form_500x500.png",
+    "Resize/Buu_Innocent_500x500.png",
+    "Resize/Buu_Kid_500x500.png",
+    "Resize/GTPan_Normal_500x500.png",
+    "Resize/Android 16_Normal_500x500.png",
+    "Resize/Android 17_Normal_500x500.png",
+    "Resize/Android 18_Normal_500x500.png",
+    "Resize/Ginyu_Normal_500x500.png",
+    "Resize/Videl_Normal_500x500.png",
+    "Resize/Videl_Great Saiyaman 2_500x500.png",
+    "Resize/Krillin_Normal_500x500.png",
+    "Resize/Tien_Normal_500x500.png",
+    "Resize/Yamcha_Normal_500x500.png"
 ];
 let isRolling = false;
 function Roll(){
