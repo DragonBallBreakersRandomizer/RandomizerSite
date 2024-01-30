@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'Saiyan Sans';
+  src: url('Saiyan-Sans.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Saiyan Sans';
+  src: url('Saiyan-Sans Left Oblique.ttf') format('truetype');
+  font-weight: normal;
+  font-style: oblique;
+}
+
+@font-face {
+  font-family: 'Saiyan Sans';
+  src: url('Saiyan-Sans Right Oblique.ttf') format('truetype');
+  font-weight: normal;
+  font-style: oblique;
+}
+
 *,
 *::before,
 *::after {
@@ -62,17 +83,29 @@ button {
   text-align: center;
 }
 .SplashScreen{
-    width: 10%;
-    height: inherit;
-    position: center;
+  width: 10%;
+  height: inherit;
+  position: center;
 }
 .SplashScreen:hover{
-    transition: 1s;
-    box-shadow: 0 0 2px 1px lightgray
+  transition: 1s;
+  box-shadow: 0 0 2px 1px lightgray
 }
 h1{
-    text-align: center; 
+  text-align: center;
+  font-size: 58px; 
+  color: #ff991e;
 }
 footer{
-    text-align: center;
+  color: #ff991e;
+  text-align: center;
+  font-family: 'Saiyan Sans', sans-serif;
+  font-size: 25px;
+}
+header{
+  font-family: 'Saiyan Sans', sans-serif;
+}
+p{
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 20px;
 }
