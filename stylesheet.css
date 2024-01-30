@@ -61,3 +61,15 @@ button {
   width: 100%;
   text-align: center;
 }
+.SplashScreen{
+    width: 10%;
+    height: inherit;
+    position: center;
+}
+.SplashScreen:hover{
+    transition: 1s;
+    box-shadow: 0 0 2px 1px lightgray
+}
+h1{
+    text-align: center; 
+}
