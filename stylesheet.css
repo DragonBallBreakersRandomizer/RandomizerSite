@@ -30,10 +30,11 @@
 }
 
 .boxes {
-    width: 100px; /* Example width */
-    height: 100px; /* Example height */
+    width: 100px;
+    height: 100px;
     background-size: cover;
     background-position: center;
+    transition: transform 1s ease-in-out;
 }
 
 .box {
