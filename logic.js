@@ -410,7 +410,7 @@ function Stop() {
         const data = get_random_moves(character, form)
         const resultElement = document.getElementById(`result${index + 1}`);
         if (data) {
-            resultElement.textContent = `Level ${index + 1}: ${character}, ${form}, ${data.move}`;
+            resultElement.textContent = `Level ${index + 1}: ${character}, ${form},    ${data.move}`;
         } else {
             resultElement.textContent = `Level ${index + 1}: No data found`;
         }
