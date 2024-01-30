@@ -22,19 +22,19 @@
 .door {
   background: #fafafa;
   box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.4) inset;
-  width: 100px;
-  height: 100px;
+  width: 400px;
+  height: 400px;
   overflow: hidden;
   border-radius: 1ex;
   margin: 1ch;
 }
 
 .boxes {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
     background-size: cover;
     background-position: center;
-    transition: transform 1s ease-in-out;
+    transition: transform 5s ease-in-out;
 }
 
 .box {

@@ -88,7 +88,7 @@ const TeenGohan ={
         "Masenko",
         "Full Power Energy Wave"
     ],
-    "Super Saiyan": [
+    "Super Saiyan 2": [
         "Kamehameha",
         "Father Son Kamehameha",
         "Full Power Energy Wave",
@@ -131,7 +131,7 @@ const Bardock = {
     ],
 }
 const SBroly = {
-    "Normal": [
+    "Rage": [
         "Powered Shell",
         "Gigantic Charge"
     ],
@@ -325,18 +325,47 @@ function get_random_moves(character, form) {
     const move = moves[Math.floor(Math.random() * moves.length)];
     return { name: character, form, move };
 }
-//array of items
+//array of paths
 const imagePaths = [
     "Resize/Goku_Normal_500x500.png",
     "Resize/Goku_Super Saiyan_500x500.png",
     "Resize/Goku_Super Saiyan 2_500x500.png",
+    "Resize/Goku_Super Saiyan God_500x500.png",
+    "Resize/Goku_Super Saiyan Blue_500x500.png",
+    "Resize/Vegeta_Normal_500x500.png",
+    "Resize/Vegeta_Super Saiyan_500x500.png",
+    "Resize/Vegeta_Super Saiyan 2_500x500.png",
+    "Resize/Vegeta_Super Saiyan God_500x500.png",
+    "Resize/Vegeta_Super Saiyan Blue_500x500.png",
     "Resize/Adult Gohan_Normal_500x500.png",
     "Resize/Adult Gohan_Super Saiyan_500x500.png",
     "Resize/Adult Gohan_Great Saiyaman 1_500x500.png",
     "Resize/Adult Gohan_Beast_500x500.png",
+    "Resize/Teen Gohan_Normal_500x500.png",
+    "Resize/Teen Gohan_Super Saiyan_500x500.png",
+    "Resize/Teen Gohan_Super Saiyan 2_500x500.png",
+    "Resize/Goten_Normal_500x500.png",
+    "Resize/Goten_Super Saiyan_500x500.png",
+    "Resize/Gogeta_Normal_500x500.png",
+    "Resize/Gogeta_Super Saiyan Blue_500x500.png",
+    "Resize/Bardock_Normal_500x500.png",
+    "Resize/Bardock_Super Saiyan_500x500.png",
+    "Resize/SBroly_Rage_500x500.png",
+    "Resize/SBroly_Super Saiyan500x500.png",
+    "Resize/Kid Trunks_Normal_500x500.png",
+    "Resize/Kid Trunks_Super Saiyan_500x500.png",
+    "Resize/Adult Trunks_Normal_500x500.png",
+    "Resize/Adult Trunks_Super Saiyan_500x500.png",
 ];
+let isRolling = false;
 function Roll(){
+    if(isRolling){
+        console.log("ROLLING ALREADY")
+        alert("ROLLING ALREADY")
+        return;
+    }
     console.log('Rolling')
+    isRolling = true;
     const boxes = document.querySelectorAll('.boxes')
     rollInterval = setInterval(() => { //Start the rolling mtfs
         boxes.forEach(box => {
@@ -346,6 +375,12 @@ function Roll(){
     }, 100);
 }
 function Stop() {
+    if(!isRolling){
+        console.log("ROLLING HAS STOPPED ALREADY")
+        alert("ROLLING HAS STOPPED ALREADY")
+        return;
+    }
+    isRolling = false;
     console.log('stop rolling')
     clearInterval(rollInterval);
     const boxes = document.querySelectorAll('.boxes')
