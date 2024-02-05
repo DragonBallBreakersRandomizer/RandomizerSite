@@ -4,7 +4,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'Saiyan Sans';
   src: url('Font-Styles/Saiyan-Sans Left Oblique.ttf') format('truetype');
@@ -30,7 +29,7 @@
 #app {
   width: 100%;
   height: 100%;
-  background: white; display: flex;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -122,6 +121,7 @@ header{
 p{
   font-family: 'Trebuchet MS', sans-serif;
   font-size: 20px;
+  color: black;
 }
 /*Switch*/
 .switch {
@@ -146,7 +146,8 @@ p{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: white;
+  border: 1px solid #000000;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -158,20 +159,22 @@ p{
   width: 26px;
   left: 4px;
   bottom: 4px;
-  background-color: white;
+  background-color: black;
   -webkit-transition: .4s;
   transition: .4s;
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  border: none;
+  background-color: black;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 2px white;
 }
 
 input:checked + .slider:before {
+  background-color: #ffffff; /* Circle is white when checked */
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
@@ -184,4 +187,14 @@ input:checked + .slider:before {
 
 .slider.round:before {
   border-radius: 50%;
+}
+.dark-mode{
+  background:#343541;
+}
+body, #app {
+  transition: background-color 1s, color 1s; /* Smooth transition for background and color */
+
+}
+.dark-mode p {
+  color: #ffffff; /* This sets the paragraph text to white in dark mode */
 }
