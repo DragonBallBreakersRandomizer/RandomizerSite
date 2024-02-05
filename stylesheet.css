@@ -188,6 +188,9 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+.dark-mode::before{
+  background:white;
+}
 .dark-mode{
   background:#343541;
 }
