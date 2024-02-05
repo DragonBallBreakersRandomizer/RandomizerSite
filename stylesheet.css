@@ -56,14 +56,20 @@ body{
   box-shadow: 10px 10px 10px orange;
 }
 @media (max-width: 768px) {
-  .door {
-    width: 100px;
-    height: 100px;
+  .door, .boxes {
+    width: 100px; /* Set a fixed size or percentage based on your design */
+    height: 100px; /* This height will maintain the aspect ratio for a square */
     margin: 1ch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
   }
-  .boxes {
-    width: 100px;
-    height: 100px;
+
+  .boxes img {
+    width: auto; /* This will maintain the image's aspect ratio */
+    max-height: 100%; /* This will ensure the image does not overflow its container */
+    border-radius: 50%; /* Maintain the circular shape */
   }
 }
 .boxes {
@@ -73,6 +79,19 @@ body{
     background-position: center;
     transition: transform 5s ease-in-out;
 }
+img{
+  max-width: 100%;
+  height: auto;
+}
+.door img {
+  max-width: 100%;
+  height: auto;
+}
+.boxes img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%; /* To match the circular shape of the container */
+}
 
 .box {
   display: flex;
@@ -80,6 +99,7 @@ body{
   align-items: center;
   font-size: 3rem;
 }
+
 
 .buttons {
   margin: 1rem 0 2rem 0;
