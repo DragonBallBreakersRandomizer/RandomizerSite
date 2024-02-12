@@ -42,44 +42,56 @@
       <button id="spin">Spin</button>
       <button id="stop">Stop</button>
     </div>
-    <div id="filters"><!--Filters-->
-      <H3 class ="FilterHeader">Filters <span class="arrow">►</span></H3>
-      <div class="filter-group">
-        
-        <input type="checkbox" id="fullPowerEnergyWave" name="move" value="Full Power Energy Wave">
-        <label for="fullPowerEnergyWave">No Full Power Energy Wave</label><br>
-      
-        <input type="checkbox" id="fullPowerEnergyVolley" name="move" value="Full Power Energy Volley">
-        <label for="fullPowerEnergyVolley">No Full Power Energy Volley</label><br>
-
-        <input type="checkbox" id="noChargeSupers" name="move" value="No Charge Supers">
-        <label for="noChargeSupers">No 'Charge' Supers</label><br>
-
-        <input type="checkbox" id="noMeleeSupers" name="move" value="No Melee Supers">
-        <label for="noMeleeSupers">No Melee Combo Supers</label><br>
-        <!-- Add more move checkboxes as needed -->
+    <div id="filters">
+      <h3 class="FilterHeader">Filters <span class="arrow">►</span></h3>
+      <div class="filter-container">
+          <!-- Forms Column -->
+          <div class="filter-group">
+            <h4>Forms</h4>
+            <!-- Add checkboxes for each form -->
+            <input type="checkbox" id="formNormal" name="form" value="Normal">
+            <label for="formNormal">No Normal</label><br>
+            <input type="checkbox" id="formSS" name="form" value="Super Saiyan">
+            <label for="formSS">No Super Saiyan</label><br>
+            <input type="checkbox" id="formSS2" name="form" value="Super Saiyan 2">
+            <label for="formSS2">No Super Saiyan 2</label><br>
+            <input type="checkbox" id="formSSG" name="form" value="Super Saiyan God">
+            <label for="formSSG">No Super Saiyan God</label><br>
+            <input type="checkbox" id="formSSB" name="form" value="Super Saiyan Blue">
+            <label for="formSSB">No Super Saiyan Blue</label><br>
+            <input type="checkbox" id="formSSB" name="form" value="Beast">
+            <label for="formBeast">Beast</label><br>
+            <input type="checkbox" id="formSSB" name="form" value="Orange">
+            <label for="formOrg">Orange</label><br>
+            <!-- Add more form checkboxes here -->
+          </div>
+  
+          <!-- Supers Column -->
+          <div class="filter-group">
+              <h4>Supers</h4>
+              <input type="checkbox" id="fullPowerEnergyWave" name="move" value="Full Power Energy Wave">
+              <label for="fullPowerEnergyWave">No Full Power Energy Wave</label><br>
+              <input type="checkbox" id="fullPowerEnergyVolley" name="move" value="Full Power Energy Volley">
+              <label for="fullPowerEnergyVolley">No Full Power Energy Volley</label><br>
+              <input type="checkbox" id="noChargeSupers" name="move" value="No Charge Supers">
+              <label for="noChargeSupers">No 'Charge' Supers</label><br>
+              <input type="checkbox" id="noMeleeSupers" name="move" value="No Melee Supers">
+              <label for="noMeleeSupers">No Melee Combo Supers</label><br>
+              <!-- Add more move checkboxes as needed -->
+          </div>
+          <!--
+           Presets Column 
+          <div class="filter-group">
+              <h4>Presets</h4>
+               Add checkboxes for each preset
+              Example preset checkbox
+              <input type="checkbox" id="preset1" name="preset" value="Preset1">
+              <label for="preset1">Preset 1</label><br>
+              Add more preset checkboxes here
+          </div>-->
       </div>
-    
-      <div class="filter-group"> 
-        
-        <!-- Add checkboxes for each form -->
-        <input type="checkbox" id="form1" name="form" value="Normal">
-        <label for="form1">No Base</label><br>
-        <input type="checkbox" id="form2" name="form" value="Super Saiyan">
-        <label for="form2">No Super Saiyan</label><br>
-        <input type="checkbox" id="form3" name="form" value="Super Saiyan 2">
-        <label for="form3">No Super Saiyan 2</label><br>
-        <input type="checkbox" id="form4" name="form" value="Super Saiyan God">
-        <label for="form4">No Super Saiyan God</label><br>
-        <input type="checkbox" id="form5" name="form" value="Super Saiyan Blue">
-        <label for="form5">No Super Saiyan Blue</label><br>
-        <input type="checkbox" id="form6" name="form" value="Orange">
-        <label for="form6">No Orange</label><br>
-        <input type="checkbox" id="form6" name="form" value="Beast">
-        <label for="form6">No Beast</label><br>
-        <!-- Add more form later on -->
-      </div>
-    </div>
+  </div>
+  <br><br><br><br><br>
     <div id="results"><!--Display Moves-->
         <p><span id="result1">Level 1:</span></p>
         <p><span id="result2">Level 2:</span></p>
@@ -88,6 +100,7 @@
     <p class="info"></p>
   </div>
 </main>
+<br><br><br><br><br><br>
 <footer>
 Development by Crownless Octo<br>
 For Contacting me for bugs: <a href="https://discord.com/users/crownlessocto"><b>Discord</b></a>

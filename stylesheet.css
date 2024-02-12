@@ -239,3 +239,14 @@ body, #app {
 .FilterHeader{
   font-family: 'Saiyan Sans', sans-serif;
 }
+.filter-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.filter-group {
+  flex-basis: 50%;
+}
+.filter-group label{
+  font-size: 20px;
+}
