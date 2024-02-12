@@ -245,8 +245,8 @@ body, #app {
 }
 
 .filter-group {
-  flex-basis: 50%;
+  flex-basis: 100%;
 }
 .filter-group label{
-  font-size: 20px;
+  font-size: 18px;
 }
