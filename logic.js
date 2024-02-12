@@ -393,6 +393,7 @@ function Roll(){
         });
     }, 100);
 }
+const noChargeSupersMoves = ["Gigantic Charge","Rebellion Spear","Charge","Fierce Fist"];
 function Stop() {
     if(!isRolling){
         console.log("ROLLING HAS STOPPED ALREADY")
@@ -404,6 +405,7 @@ function Stop() {
     clearInterval(rollInterval);
     const selectedMoves = getFilteredValues('move'); // Filtered moves
     const selectedForms = getFilteredValues('form'); // Filtered forms
+    const noChargeSupersFilter = document.getElementById('noChargeSupers').checked;//Check if box is selected
     const boxes = document.querySelectorAll('.boxes')
     boxes.forEach((box, index) => {
         let validSelection = false;
@@ -416,6 +418,9 @@ function Stop() {
             const [character, form] = imageName.split('_');
             const data = get_random_moves(character, form);
             //checks if the values dont interfere with the filters
+            if (noChargeSupersFilter && noChargeSupersMoves.includes(data.move)) {
+                continue; // Skip this move and re-select
+            }
             if (!selectedMoves.includes(data.move) && !selectedForms.includes(form)) {
                 validSelection = true;
                 const resultElement = document.getElementById(`result${index + 1}`);
