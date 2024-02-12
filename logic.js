@@ -394,6 +394,7 @@ function Roll(){
     }, 100);
 }
 const noChargeSupersMoves = ["Gigantic Charge","Rebellion Spear","Charge","Fierce Fist"];
+const meleeSupersMoves = ["Kaioken Assault", "Burning Slash", "Symphonic Destruction", "Apocalyptic Burst","Justice Rush","Justice Combination","Wolf Fang Fist"];
 function Stop() {
     if(!isRolling){
         console.log("ROLLING HAS STOPPED ALREADY")
@@ -406,6 +407,7 @@ function Stop() {
     const selectedMoves = getFilteredValues('move'); // Filtered moves
     const selectedForms = getFilteredValues('form'); // Filtered forms
     const noChargeSupersFilter = document.getElementById('noChargeSupers').checked;//Check if box is selected
+    const noMeleeSupersFilter = document.getElementById('noMeleeSupers').checked;
     const boxes = document.querySelectorAll('.boxes')
     boxes.forEach((box, index) => {
         let validSelection = false;
@@ -419,6 +421,9 @@ function Stop() {
             const data = get_random_moves(character, form);
             //checks if the values dont interfere with the filters
             if (noChargeSupersFilter && noChargeSupersMoves.includes(data.move)) {
+                continue; // Skip this move and re-select
+            }
+            if (noMeleeSupersFilter && meleeSupersMoves.includes(data.move)) {
                 continue; // Skip this move and re-select
             }
             if (!selectedMoves.includes(data.move) && !selectedForms.includes(form)) {
