@@ -224,3 +224,18 @@ body, #app {
 .dark-mode p {
   color: #ffffff; /* This sets the paragraph text to white in dark mode */
 }
+.filter-group{
+  display:none;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+.arrow{
+  transition: transform 0.3s ease;
+}
+.arrow:hover{
+  box-shadow:0px 0px 1px 1px rgba(0,0,0,0.5);
+  color: orange;
+
+}
+.FilterHeader{
+  font-family: 'Saiyan Sans', sans-serif;
+}

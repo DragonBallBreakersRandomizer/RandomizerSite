@@ -20,7 +20,7 @@
 </header>
 <main>
 <div id="app">
-    <div class="doors">
+    <div class="doors"><!--Display results-->
       <div class="door">
         <div class="boxes">
         </div>
@@ -34,15 +34,45 @@
         </div>
       </div>
     </div>
-    <label class="switch">
+    <label class="switch"><!--Darkmode switch-->
       <input type="checkbox" id="darkMode">
       <span class="slider round"></span>
     </label>
-    <div class="buttons">
+    <div class="buttons"><!--Buttons-->
       <button id="spin">Spin</button>
       <button id="stop">Stop</button>
     </div>
-    <div id="results">
+    <div id="filters"><!--Filters-->
+      <H3 class ="FilterHeader">Filters <span class="arrow">►</span></H3>
+      <div class="filter-group">
+        
+        <input type="checkbox" id="fullPowerEnergyWave" name="move" value="Full Power Energy Wave">
+        <label for="fullPowerEnergyWave">No Full Power Energy Wave</label><br>
+      
+        <input type="checkbox" id="fullPowerEnergyVolley" name="move" value="Full Power Energy Volley">
+        <label for="fullPowerEnergyVolley">No Full Power Energy Volley</label><br>
+        <!-- Add more move checkboxes as needed -->
+      </div>
+    
+      <div class="filter-group"> 
+        
+        <!-- Add checkboxes for each form -->
+        <input type="checkbox" id="form1" name="form" value="Normal">
+        <label for="form1">No Base</label><br>
+        <input type="checkbox" id="form2" name="form" value="Super Saiyan">
+        <label for="form2">No Super Saiyan</label><br>
+        <input type="checkbox" id="form3" name="form" value="Super Saiyan 2">
+        <label for="form3">No Super Saiyan 2</label><br>
+        <input type="checkbox" id="form4" name="form" value="Super Saiyan God">
+        <label for="form4">No Super Saiyan God</label><br>
+        <input type="checkbox" id="form5" name="form" value="Super Saiyan Blue">
+        <label for="form5">No Super Saiyan Blue</label><br>
+        <input type="checkbox" id="form6" name="form" value="Orange">
+        <label for="form6">No Orange</label><br>
+        <!-- Add more form later on -->
+      </div>
+    </div>
+    <div id="results"><!--Display Moves-->
         <p><span id="result1">Level 1:</span></p>
         <p><span id="result2">Level 2:</span></p>
         <p><span id="result3">Level 3:</span></p>
