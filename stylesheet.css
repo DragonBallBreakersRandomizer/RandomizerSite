@@ -237,6 +237,23 @@ body, #app {
   display:none;
   font-family: 'Trebuchet MS', sans-serif;
 }
+button{
+  border-radius: 20px;
+  font-family: 'Saiyan Sans', sans-serif;
+  background-color: #f1f1f1; /* Light grey background */
+  color: #333; /* Dark text for light background */
+  border: 1px solid #ccc; /* Slightly darker border for definition */
+  padding: 10px 20px; /* Padding for spacing around the text */
+  transition: background-color 0.3s, color 0.3s;
+}
+button:hover{
+  box-shadow:0px 0px 1px 1px rgba(183, 55, 5, 0.5);
+}
+.dark-mode button{
+  background-color: #333;
+  color: #f1f1f1;
+  border: 1px solid #444;
+}
 .arrow{
   transition: transform 0.3s ease;
 }
