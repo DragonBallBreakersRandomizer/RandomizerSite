@@ -207,16 +207,24 @@ input:checked + .slider:before {
 /* Rounded sliders */
 .slider.round {
   border-radius: 34px;
+  display: flex;
+  justify-content: center;
 }
 
 .slider.round:before {
-  border-radius: 50%;
+  border-radius: 50%; 
 }
 .dark-mode::before{
   background:white;
 }
 .dark-mode{
   background:#343541;
+}
+.dark-mode .filter-group {
+  color: white;
+}
+.dark-mode .FilterHeader{
+  color: white;
 }
 body, #app {
   transition: background-color 1s, color 1s; /* Smooth transition for background and color */
@@ -250,4 +258,7 @@ body, #app {
 }
 .filter-group label{
   font-size: 18px;
+}
+.filter-label {
+  transition: color 0.5s ease;
 }
