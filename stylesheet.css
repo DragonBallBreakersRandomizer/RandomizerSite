@@ -28,6 +28,7 @@
 }
 body{
   background-color: white;
+  zoom: 90%;
 }
 #app {
   width: 100%;
@@ -43,7 +44,7 @@ body{
 }
 
 .door {
-  background: #fafafa;
+  background: #00000000;
   box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.4) inset;
   width: 400px;
   height: 400px;
