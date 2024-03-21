@@ -76,9 +76,11 @@ body{
 .boxes {
     width: 400px;
     height: 400px;
-    background-size: cover;
-    background-position: center;
-    transition: transform 5s ease-in-out;
+    background-size: contain; /* or cover, depending on what you prefer */
+    background-position: center; /* Align the image nicely in the box */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    border: none; /* Remove any borders */
+     outline: none; /* Remove any outlines */
 }
 img{
   max-width: 100%;
