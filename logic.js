@@ -1,1 +1,771 @@
-function _0x3106(){const _0x599c96=['Metamoran\x20Outfit\x202','Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x202)','Finish\x20Buster','Battle\x20Suit\x203','addEventListener','random','Demon\x20Clan\x20Outfit','Resize/Teen\x20Gohan_Super\x20Saiyan_500x500.png','God\x20Kamehameha','Training\x20T-Shirt','Super\x20Black\x20Kamehameha\x20Rosé','Side\x20Bridge','Apocalyptic\x20Burst','Resize/Goten_Normal_500x500.png','Perfect\x20Form','Resize/Goku_Super\x20Saiyan\x202_500x500.png','Resize/Goten_Super\x20Saiyan_500x500.png','Metamoran\x20Outfit\x201','\x22]:checked','Justice\x20Combination','Dodon\x20Ray','Resize/Android\x2016_Normal_500x500.png','Majin\x20Kamehameha','2276eyKCUs','1360158fYmbvK','includes','Final\x20Kamehameha','Hell\x20Flash','Resize/Adult\x20Trunks_Super\x20Saiyan_500x500.png','Martial\x20Arts\x20Uniform','log','Great\x20Saiyaman\x20Suit\x20(No\x20Helmet)','Charge','Majin\x20Outfit\x201','noChargeSupers','innerHTML','moves','Demon\x20Clan\x20Outfit(DBS\x20Super\x20Hero)','Yardrat','Resize/Gogeta_Super\x20Saiyan_500x500.png','Favorite\x20Outfit\x201','Black\x20Gi','Resize/Goku_Super\x20Saiyan\x20Blue_500x500.png','Training\x20Suit\x202','Resize/Vegeta_Normal_500x500.png','Resize/Vegeta_Super\x20Saiyan_500x500.png','Denim\x20Vest','Orange\x20Star\x20High\x20School\x20Uniform','Hellzone\x20Grenade','body','Final\x20Explosion','Burning\x20Attack','Heat\x20Dome\x20Attack','Battle\x20Suit\x202','Demon\x20Ray','Resize/Adult\x20Gohan_Super\x20Saiyan_500x500.png','noLongCombos','Bad\x20Man\x20Shirt','costume','DOMContentLoaded','2559xMpUBo','Resize/Android\x2017_Normal_500x500.png','change','Resize/Buu_Kid_500x500.png','filter','FIGHT\x20T-Shirt','Resize/Vegito_Super\x20Saiyan\x20Blue_500x500.png','Vanishing\x20Ball','display','stop\x20rolling','Resize/Adult\x20Gohan_Beast_500x500.png','485947FHFiJk','Adventure\x20Outfit(GT)','Resize/Beerus_Normal_500x500.png','Resize/Goku\x20Black_Super\x20Saiyan\x20Rosé_500x500.png','move','Great\x20Saiyaman\x20Suit','Turtle\x20Hermit\x20Gi','Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x204)','Resize/SBroly_Super\x20Saiyan_500x500.png','Whis\x20Symbol\x20Battle\x20Suit','Turtle\x20Hermit\x20Gi(Turtle\x20Symbol)','God\x20Punisher','lastIndexOf','Sphere\x20of\x20Destruction','push','Resize/Goku\x20Black_Normal_500x500.png','Kamehameha','Galick\x20Gun','Whis\x20Symbol\x20Gi','Warp\x20Kamehameha','Hero','Battle\x20Suit\x201','\x20Battle\x20Suit\x205','floor','Gi\x201','Destructio-Disc','Black\x20Kamehameha','dark-mode','Red\x20T-Shirt\x20Outfit','Resize/Bardock_Normal_500x500.png','Red\x20Ribbon\x20Army\x20Suit','Too\x20many\x20filters\x20are\x20selected,\x20please\x20deselect\x20some\x20to\x20allow\x20values\x20to\x20return.','Spirit\x20Ball','Long\x20Sleeves','Gigantic\x20Charge','Burning\x20Slash','querySelector','Resize/Buu_Innocent_500x500.png','split','forEach','Battle\x20Suit\x206','backgroundImage','Full\x20Power\x20Energy\x20Blast\x20Volley','querySelectorAll','Resize/Android\x2018_Normal_500x500.png','Kamehwameha','Masenko','Golden','\x20Gi\x202','Battle\x20Suit','Resize/SBroly_Full\x20Power\x20Super\x20Saiyan_500x500.png','Perfect\x20Kamehameha','16270144abNDhM','Maiden\x20Blast','Kaioken\x20Assault','Emperor\x27s\x20Death\x20Beam','Resize/Videl_Great\x20Saiyaman\x202_500x500.png','Final\x20Flash','Great\x20Saiyaman\x20Suit\x20(with\x20Sunglasses)','Super\x20Destructo-Disc','Dual\x20Destructo-Disc','Crimson\x20Edge','Resize/Goku_Super\x20Saiyan\x20God_500x500.png','ROLLING\x20HAS\x20STOPPED\x20ALREADY','Super\x20Electric\x20Strike','Resize/Videl_Normal_500x500.png','.filter-group','God\x20of\x20Destruction\x27s\x20Attendant\x27s\x20Garb','Split\x20Finger\x20Shot','input[name=\x22','input[name=\x22form\x22]','1077138LpNlSz','Resize/Ginyu_Normal_500x500.png','Denim\x20Jeans\x20Outfit','Resize/Gogeta_Normal_500x500.png','Soul\x20Punisher','result','Motionless\x20Kamehameha','Innocence\x20Cannon','Full\x20Power\x20Energy\x20Wave','Death\x20Ball','Double\x20Buster','Big\x20Bang\x20Attack','Fierce\x20Fist','Light\x20Grenade','Resize/Vegeta_Super\x20Saiyan\x202_500x500.png','Resize/Vegeta_Super\x20Saiyan\x20Blue_500x500.png','Tracksuit\x20Outfit','Evil\x20Explosion','Turtle\x20Hermit\x20Gi\x20(King\x20Kai\x20Symbol)','Driving\x20School\x20Unifrom','Spirit\x20Blaster','Destructo-Disc','Resize/Adult\x20Trunks_Normal_500x500.png','Demon\x20Clan\x20Outfit(With\x20Cape)','Favorite\x20Outfit\x202','Symphonic\x20Destruction','Great\x20Saiyaman\x202','Resize/Adult\x20Gohan_Great\x20Saiyaman\x201_500x500.png','Gigantic\x20Meteor','Rolling','Resize/Gogeta_Super\x20Saiyan\x20Blue_500x500.png','Turtle\x20Hermit\x20Gi\x20(Turtle\x20Symbol\x202)','Finish\x20Breaker','Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x203)','Resize/Piccolo_Orange_500x500.png','768601TmZRMO','Majin\x20Outfit\x202','Powered\x20Shell','Resize/Krillin_Normal_500x500.png','checked','Father\x20Son\x20Kamehameha','url(\x27','Great\x20Saiyaman\x201','Super\x20Galick\x20Gun','Yamcha\x27s\x20Outfit','Gi\x20(GT)','Super\x20Black\x20Kamehameha','Resize/Vegito_Normal_500x500.png','Justice\x20Rush','Riot\x20Javelin','.boxes',':<br>','getElementById','Battle\x20Suit\x205','stop','Spirit\x20Bomb','classList','click','Special\x20Beam\x20Cannon','value','noDiscSupers','length','Resize/Goku_Normal_500x500.png','Rebellion\x20Spear','Chain\x20Destructo-Disc\x20Barrage','Special\x20Beam\x20Cannon\x20(Beast)','.FilterHeader','Resize/Adult\x20Trunks_Super\x20Saiyan\x202_500x500.png','Great\x20Saiyman\x20Suit\x20(No\x20Helmet)','Death\x20Slicer','Crazy\x20Finger\x20Shot','Capsule\x20Corporation\x20Outfit\x202','form','Turtle\x20Hermit\x20Gi(Turtle\x20Symbol\x201)','block','Resize/SBroly_Rage_500x500.png','Training\x20Suit\x201','style','Milky\x20Cannon','&#x25BC;','Super\x20Spirit\x20Bomb','Super\x20Kamehameha','noMeleeSupers','toggle','4385190IxSLuS','Gigantic\x20Roar','ROLLING\x20ALREADY'];_0x3106=function(){return _0x599c96;};return _0x3106();}function _0x5f33(_0x2d76e4,_0x2f26d1){const _0x310679=_0x3106();return _0x5f33=function(_0x5f333f,_0xcfe035){_0x5f333f=_0x5f333f-0xd4;let _0x381ac8=_0x310679[_0x5f333f];return _0x381ac8;},_0x5f33(_0x2d76e4,_0x2f26d1);}const _0x559cb0=_0x5f33;(function(_0x1c8e37,_0x20c0fb){const _0x243a9f=_0x5f33,_0x3a8941=_0x1c8e37();while(!![]){try{const _0x20eb8b=parseInt(_0x243a9f(0x193))/0x1+parseInt(_0x243a9f(0xfa))/0x2+-parseInt(_0x243a9f(0x11e))/0x3*(-parseInt(_0x243a9f(0xf9))/0x4)+parseInt(_0x243a9f(0xdf))/0x5+-parseInt(_0x243a9f(0x170))/0x6+-parseInt(_0x243a9f(0x129))/0x7+-parseInt(_0x243a9f(0x15d))/0x8;if(_0x20eb8b===_0x20c0fb)break;else _0x3a8941['push'](_0x3a8941['shift']());}catch(_0xc7e612){_0x3a8941['push'](_0x3a8941['shift']());}}}(_0x3106,0x80feb));const Goku={'Normal':{'moves':[_0x559cb0(0x139),'Kaioken\x20Kamehameha',_0x559cb0(0x15f),_0x559cb0(0x1a7),'Super\x20Spirit\x20Bomb'],'costumes':['Yardrat','Turtle\x20Hermit\x20Gi\x20(Turtle\x20Symbol\x201)',_0x559cb0(0x18f),_0x559cb0(0x182),_0x559cb0(0x12f),'Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x201)',_0x559cb0(0xe3),_0x559cb0(0x13b),_0x559cb0(0x19d)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x139),_0x559cb0(0xdc),_0x559cb0(0x13c)],'costumes':[_0x559cb0(0x108),_0x559cb0(0xd4),_0x559cb0(0x18f),_0x559cb0(0x13b)]},'Super\x20Saiyan\x202':{'moves':['Kamehameha',_0x559cb0(0xdc)],'costumes':[_0x559cb0(0x12f),_0x559cb0(0xe3),_0x559cb0(0x13b)]},'Super\x20Saiyan\x20God':{'moves':[_0x559cb0(0x139),'Super\x20Kamehameha',_0x559cb0(0xea)],'costumes':[_0x559cb0(0x191),_0x559cb0(0x130)]},'Super\x20Saiyan\x20Blue':{'moves':[_0x559cb0(0x139),_0x559cb0(0xdc),'10X\x20Kaioken\x20God\x20Kamehameha'],'costumes':['Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x201)',_0x559cb0(0xe3),'Turtle\x20Hermit\x20Gi\x20(Goku\x20Symbol\x205)']}},Vegeta={'Normal':{'moves':[_0x559cb0(0x13a),_0x559cb0(0x178)],'costumes':[_0x559cb0(0x13e),_0x559cb0(0x117),_0x559cb0(0xe5),'Battle\x20Suit\x204','Battle\x20Suit\x205','Training\x20Suit\x201',_0x559cb0(0x132),_0x559cb0(0x11b)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x13a),_0x559cb0(0x17b),'Final\x20Flash'],'costumes':[_0x559cb0(0xd7),_0x559cb0(0x10d),_0x559cb0(0x13f),_0x559cb0(0x132)]},'Super\x20Saiyan\x202':{'moves':[_0x559cb0(0x13a),_0x559cb0(0x178),'Final\x20Flash',_0x559cb0(0x114)],'costumes':[_0x559cb0(0xd7),'Training\x20Suit\x202',_0x559cb0(0x13f),_0x559cb0(0x132)]},'Super\x20Saiyan\x20God':{'moves':[_0x559cb0(0x13a),_0x559cb0(0x178),_0x559cb0(0x17b),'Blazing\x20Attack'],'costumes':[_0x559cb0(0x151)]},'Super\x20Saiyan\x20Blue':{'moves':[_0x559cb0(0x13a),'Super\x20Galick\x20Gun',_0x559cb0(0x17b),_0x559cb0(0x162)],'costumes':[_0x559cb0(0x1a5),_0x559cb0(0x151)]}},ADGohan={'Normal':{'moves':[_0x559cb0(0x139),_0x559cb0(0x157),_0x559cb0(0x178)],'costumes':[_0x559cb0(0x111),_0x559cb0(0x180),'Gi','Turtle\x20Hermit\x20Gi']},'Super\x20Saiyan':{'moves':['Kamehameha','Masenko',_0x559cb0(0xdc)],'costumes':[_0x559cb0(0x111),'Tracksuit\x20Outfit','Gi',_0x559cb0(0x12f)]},'Great\x20Saiyaman\x201':{'moves':[_0x559cb0(0x139),_0x559cb0(0x157),_0x559cb0(0x178)],'costumes':[_0x559cb0(0x12e),_0x559cb0(0x101),_0x559cb0(0x163)]},'Beast':{'moves':[_0x559cb0(0x139),_0x559cb0(0x157),_0x559cb0(0x118),_0x559cb0(0x1b1)],'costumes':[_0x559cb0(0x107)]}},TeenGohan={'Normal':{'moves':[_0x559cb0(0x139),_0x559cb0(0x157),_0x559cb0(0x178)],'costumes':[_0x559cb0(0x187),_0x559cb0(0xe8),'Turtle\x20Hermit\x20Gi']},'Super\x20Saiyan':{'moves':['Kamehameha',_0x559cb0(0x157),_0x559cb0(0x178)],'costumes':[_0x559cb0(0x187),_0x559cb0(0xe8),_0x559cb0(0x12f)]},'Super\x20Saiyan\x202':{'moves':[_0x559cb0(0x139),_0x559cb0(0x198),'Full\x20Power\x20Energy\x20Wave',_0x559cb0(0x176)],'costumes':[_0x559cb0(0x187),_0x559cb0(0xe8),_0x559cb0(0x12f)]}},Goten={'Normal':{'moves':['Kamehameha',_0x559cb0(0x102),_0x559cb0(0x153)],'costumes':[_0x559cb0(0x12f)]},'Super\x20Saiyan':{'moves':['Kamehameha','Super\x20Kamehameha',_0x559cb0(0x102),_0x559cb0(0x153)],'costumes':[_0x559cb0(0x12f)]}},Gogeta={'Normal':{'moves':[_0x559cb0(0x139),_0x559cb0(0x184)],'costumes':[_0x559cb0(0xe2)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x139),'Soul\x20Punisher'],'costumes':[_0x559cb0(0xf3)]},'Super\x20Saiyan\x20Blue':{'moves':['Super\x20Kamehameha',_0x559cb0(0x174),_0x559cb0(0x134)],'costumes':['Metamoran\x20Outfit\x202']}},Bardock={'Normal':{'moves':[_0x559cb0(0x178),_0x559cb0(0x1af)],'costumes':[_0x559cb0(0x13e),_0x559cb0(0x117),_0x559cb0(0xe5)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x1a1),_0x559cb0(0x178),_0x559cb0(0x1af)],'costumes':[_0x559cb0(0x117),'Battle\x20Suit\x203']}},SBroly={'Rage':{'moves':['Powered\x20Shell',_0x559cb0(0x14b)],'costumes':[_0x559cb0(0x13e)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x195),_0x559cb0(0x14b),_0x559cb0(0x18c)],'costumes':[_0x559cb0(0x13e)]},'Full\x20Power\x20Super\x20Saiyan':{'moves':[_0x559cb0(0xe0),'Powered\x20Shell','Gigantic\x20Charge',_0x559cb0(0x18c)],'costumes':[_0x559cb0(0x117)]}},KidTrunks={'Normal':{'moves':[_0x559cb0(0x178),_0x559cb0(0x153),_0x559cb0(0x17a)],'costumes':['Gi']},'Super\x20Saiyan':{'moves':[_0x559cb0(0x178),_0x559cb0(0x153),_0x559cb0(0x17a),_0x559cb0(0xe4)],'costumes':['Gi']}},ADTrunks={'Normal':{'moves':['Full\x20Power\x20Energy\x20Wave',_0x559cb0(0x153),'Burning\x20Attack'],'costumes':['Capsule\x20Corporation\x20Outfit\x201',_0x559cb0(0x1b7),_0x559cb0(0x12a)]},'Super\x20Saiyan':{'moves':[_0x559cb0(0x153),'Burning\x20Slash',_0x559cb0(0x115),_0x559cb0(0x116)],'costumes':['Capsule\x20Corporation\x20Outfit\x201',_0x559cb0(0x1b7),_0x559cb0(0x12a)]},'Super\x20Saiyan\x202':{'moves':[_0x559cb0(0x178),'Burning\x20Slash',_0x559cb0(0x19b)],'costumes':['Capsule\x20Corporation\x20Outfit\x203']}},Beerus={'Normal':{'moves':['Full\x20Power\x20Energy\x20Wave','Sphere\x20of\x20Destruction'],'costumes':['God\x20of\x20Destruction\x27s\x20Outfit']}},Whis={'Normal':{'moves':['Prelude\x20to\x20Destruction',_0x559cb0(0x189)],'costumes':[_0x559cb0(0x16c)]}},Piccolo={'Normal':{'moves':[_0x559cb0(0x181),'Special\x20Beam\x20Cannon',_0x559cb0(0x112),'Light\x20Grenade'],'costumes':['Demon\x20Clan\x20Outfit(With\x20Cape)',_0x559cb0(0xe8),_0x559cb0(0x183)]},'Orange':{'moves':[_0x559cb0(0x178),_0x559cb0(0x1aa),'Apocalyptic\x20Burst',_0x559cb0(0x17c)],'costumes':['Demon\x20Clan\x20Outfit(DBS\x20Hero)']}},Frieza={'4th\x20Form':{'moves':['Death\x20Slicer',_0x559cb0(0x179)],'costumes':['4th\x20Form']},'Golden':{'moves':[_0x559cb0(0x1b6),_0x559cb0(0x160),_0x559cb0(0x1b5)],'costumes':[_0x559cb0(0x158)]}},Cell={'Perfect\x20Form':{'moves':['Full\x20Power\x20Energy\x20Blast\x20Volley',_0x559cb0(0x1aa),_0x559cb0(0x156),_0x559cb0(0x15c)],'costumes':[_0x559cb0(0xf0)]}},Buu={'Innocent':{'moves':[_0x559cb0(0x178),_0x559cb0(0x177)],'costumes':[_0x559cb0(0x103)]},'Kid':{'moves':[_0x559cb0(0x178),_0x559cb0(0xf8),_0x559cb0(0x125)],'costumes':[_0x559cb0(0x194)]}},GTPan={'Normal':{'moves':[_0x559cb0(0x15e),_0x559cb0(0x178),_0x559cb0(0x139)],'costumes':[_0x559cb0(0x145)]}},An16={'Normal':{'moves':['Rocket\x20Punch',_0x559cb0(0xfd)],'costumes':[_0x559cb0(0x147)]}},An17={'Normal':{'moves':[_0x559cb0(0xed),_0x559cb0(0x153),_0x559cb0(0x169)],'costumes':[_0x559cb0(0x10a),_0x559cb0(0x188)]}},An18={'Normal':{'moves':[_0x559cb0(0x185),_0x559cb0(0x153),_0x559cb0(0x165)],'costumes':[_0x559cb0(0x110),_0x559cb0(0x14a),_0x559cb0(0x172)]}},Ginyu={'Normal':{'moves':['Full\x20Power\x20Energy\x20Blast\x20Volley',_0x559cb0(0x178),_0x559cb0(0xd9)],'costumes':[_0x559cb0(0x13e),_0x559cb0(0x117)]}},Videl={'Normal':{'moves':[_0x559cb0(0x153),_0x559cb0(0x178),'Justice\x20Rush'],'costumes':[_0x559cb0(0xeb),_0x559cb0(0x123)]},'Great\x20Saiyaman\x202':{'moves':[_0x559cb0(0x153),'Full\x20Power\x20Energy\x20Wave',_0x559cb0(0xf5)],'costumes':['Great\x20Saiyman\x20Suit',_0x559cb0(0x1b4)]}},Krillin={'Normal':{'moves':[_0x559cb0(0x153),_0x559cb0(0x139),_0x559cb0(0x142),_0x559cb0(0x1b0),_0x559cb0(0x164)],'costumes':[_0x559cb0(0xd4),'Turtle\x20Hermit\x20Gi\x20(Turtle\x20Symbol\x202)',_0x559cb0(0x15a),'Orin\x20Temple\x20Gi']}},Tien={'Normal':{'moves':[_0x559cb0(0x178),'Tri\x20Beam',_0x559cb0(0xf6)],'costumes':[_0x559cb0(0x141),_0x559cb0(0x159)]}},Yamcha={'Normal':{'moves':[_0x559cb0(0x153),_0x559cb0(0x139),_0x559cb0(0x178),'Wolf\x20Fang\x20Fist',_0x559cb0(0x149)],'costumes':[_0x559cb0(0x133),_0x559cb0(0x19c),'Baseball\x20Outfit']}},GokuBlack={'Normal':{'moves':[_0x559cb0(0x143),_0x559cb0(0x19e)],'costumes':[_0x559cb0(0x10b)]},'Super\x20Saiyan\x20Rosé':{'moves':['Super\x20Black\x20Kamehameha\x20Rosé',_0x559cb0(0x166)],'costumes':[_0x559cb0(0x10b)]}},Vegito={'Normal':{'moves':[_0x559cb0(0x16d),_0x559cb0(0x190),_0x559cb0(0x139)],'costumes':[_0x559cb0(0xff)]},'Super\x20Saiyan\x20Blue':{'moves':[_0x559cb0(0x16d),_0x559cb0(0xfc),_0x559cb0(0x139),_0x559cb0(0x190)],'costumes':[_0x559cb0(0xff)]}};function get_random_moves(_0x3c4102,_0x4cb451){const _0x47d8cc=_0x559cb0,_0x34b8a4={'Goku':Goku,'Vegeta':Vegeta,'Adult\x20Gohan':ADGohan,'Teen\x20Gohan':TeenGohan,'Goten':Goten,'Gogeta':Gogeta,'Bardock':Bardock,'SBroly':SBroly,'Kid\x20Trunks':KidTrunks,'Adult\x20Trunks':ADTrunks,'Beerus':Beerus,'Whis':Whis,'Piccolo':Piccolo,'Frieza':Frieza,'Cell':Cell,'Buu':Buu,'GTPan':GTPan,'Android\x2016':An16,'Android\x2017':An17,'Android\x2018':An18,'Ginyu':Ginyu,'Videl':Videl,'Krillin':Krillin,'Tien':Tien,'Yamcha':Yamcha,'Goku\x20Black':GokuBlack,'Vegito':Vegito},_0x1e0b42=_0x34b8a4[_0x3c4102][_0x4cb451],_0x118f4c=_0x1e0b42[_0x47d8cc(0x106)][Math[_0x47d8cc(0x140)](Math[_0x47d8cc(0xe7)]()*_0x1e0b42[_0x47d8cc(0x106)][_0x47d8cc(0x1ad)])],_0x5e5d3a=_0x1e0b42['costumes'][Math[_0x47d8cc(0x140)](Math[_0x47d8cc(0xe7)]()*_0x1e0b42['costumes']['length'])];return{'name':_0x3c4102,'form':_0x4cb451,'move':_0x118f4c,'costume':_0x5e5d3a};}const imagePaths=[_0x559cb0(0x1ae),'Resize/Goku_Super\x20Saiyan_500x500.png',_0x559cb0(0xf1),_0x559cb0(0x167),_0x559cb0(0x10c),_0x559cb0(0x10e),_0x559cb0(0x10f),_0x559cb0(0x17e),'Resize/Vegeta_Super\x20Saiyan\x20God_500x500.png',_0x559cb0(0x17f),'Resize/Adult\x20Gohan_Normal_500x500.png',_0x559cb0(0x119),_0x559cb0(0x18b),_0x559cb0(0x128),'Resize/Teen\x20Gohan_Normal_500x500.png',_0x559cb0(0xe9),'Resize/Teen\x20Gohan_Super\x20Saiyan\x202_500x500.png',_0x559cb0(0xef),_0x559cb0(0xf2),_0x559cb0(0x173),_0x559cb0(0x109),_0x559cb0(0x18e),_0x559cb0(0x146),'Resize/Bardock_Super\x20Saiyan_500x500.png',_0x559cb0(0xd6),_0x559cb0(0x131),_0x559cb0(0x15b),'Resize/Kid\x20Trunks_Normal_500x500.png','Resize/Kid\x20Trunks_Super\x20Saiyan_500x500.png',_0x559cb0(0x186),_0x559cb0(0xfe),_0x559cb0(0x12b),'Resize/Whis_Normal_500x500.png','Resize/Piccolo_Normal_500x500.png',_0x559cb0(0x192),'Resize/Frieza_4th\x20Form_500x500.png','Resize/Frieza_Golden_500x500.png','Resize/Cell_Perfect\x20Form_500x500.png',_0x559cb0(0x14e),_0x559cb0(0x121),'Resize/GTPan_Normal_500x500.png',_0x559cb0(0xf7),_0x559cb0(0x11f),_0x559cb0(0x155),_0x559cb0(0x171),_0x559cb0(0x16a),_0x559cb0(0x161),_0x559cb0(0x196),'Resize/Tien_Normal_500x500.png','Resize/Yamcha_Normal_500x500.png',_0x559cb0(0x138),_0x559cb0(0x19f),_0x559cb0(0x124),_0x559cb0(0x12c),_0x559cb0(0x1b3)];let isRolling=![];function Roll(){const _0x33140e=_0x559cb0;if(isRolling){console[_0x33140e(0x100)](_0x33140e(0xe1)),alert(_0x33140e(0xe1));return;}console[_0x33140e(0x100)](_0x33140e(0x18d)),isRolling=!![];const _0x3ddd51=document[_0x33140e(0x154)](_0x33140e(0x1a2));rollInterval=setInterval(()=>{const _0x3e2a61=_0x33140e;_0x3ddd51[_0x3e2a61(0x150)](_0x4a2716=>{const _0xa556f3=_0x3e2a61,_0x142906=Math[_0xa556f3(0x140)](Math[_0xa556f3(0xe7)]()*imagePaths[_0xa556f3(0x1ad)]);_0x4a2716[_0xa556f3(0xd8)]['backgroundImage']='url(\x27'+imagePaths[_0x142906]+'\x27)';});},0x64);}const noChargeSupersMoves=[_0x559cb0(0x14b),_0x559cb0(0x1af),'Charge',_0x559cb0(0x17c),_0x559cb0(0x116)],meleeSupersMoves=[_0x559cb0(0x15f),_0x559cb0(0x14c),_0x559cb0(0x189),_0x559cb0(0xee),_0x559cb0(0x1a0),'Justice\x20Combination','Wolf\x20Fang\x20Fist',_0x559cb0(0x166)],Saiyamans=[_0x559cb0(0x19a),_0x559cb0(0x18a)],AOESupers=[_0x559cb0(0x17b),_0x559cb0(0x1a1),'Blazing\x20Attack',_0x559cb0(0x18c),_0x559cb0(0x177),'Milky\x20Cannon','Blaster\x20Shell',_0x559cb0(0x174),'Maiden\x20Blast',_0x559cb0(0x17d),_0x559cb0(0x115)],ChargeUpSupers=[_0x559cb0(0x1a7),_0x559cb0(0xdb),_0x559cb0(0x179),_0x559cb0(0x136),_0x559cb0(0x112),_0x559cb0(0x125),_0x559cb0(0xe4)],Pizzas=[_0x559cb0(0x142),_0x559cb0(0x1b0),'Dual\x20Destructo-Disc',_0x559cb0(0x1b5),_0x559cb0(0x164)],LongCombos=[_0x559cb0(0x118),_0x559cb0(0x1b0),_0x559cb0(0x134),_0x559cb0(0x165),_0x559cb0(0x149)],Kamehameha=[_0x559cb0(0x139),'Kaioken\x20Kamehameha',_0x559cb0(0xdc),'Warp\x20Kamehameha',_0x559cb0(0xea),'10X\x20Kaioken\x20God\x20Kamehameha',_0x559cb0(0x198),_0x559cb0(0x176),_0x559cb0(0x15c),_0x559cb0(0xf8),_0x559cb0(0x143),'Super\x20Black\x20Kamehameha',_0x559cb0(0xec),_0x559cb0(0xfc)],sbc=[_0x559cb0(0x1aa),'Special\x20Beam\x20Cannon\x20(Beast)'];function Stop(){const _0x2a4194=_0x559cb0;if(!isRolling){console[_0x2a4194(0x100)]('ROLLING\x20HAS\x20STOPPED\x20ALREADY'),alert(_0x2a4194(0x168));return;}isRolling=![],console[_0x2a4194(0x100)](_0x2a4194(0x127)),clearInterval(rollInterval);const _0x40d32a=getFilteredValues('move'),_0x2b4e3f=getFilteredValues(_0x2a4194(0x1b8)),_0x3411c4=document[_0x2a4194(0x1a4)](_0x2a4194(0x104))[_0x2a4194(0x197)],_0x424e36=document[_0x2a4194(0x1a4)](_0x2a4194(0xdd))['checked'],_0x458b41=document[_0x2a4194(0x1a4)]('noAOESupers')[_0x2a4194(0x197)],_0x40e805=document['getElementById']('noChargeUpSupers')[_0x2a4194(0x197)],_0x11ba67=document[_0x2a4194(0x1a4)](_0x2a4194(0x1ac))[_0x2a4194(0x197)],_0x34c40e=document[_0x2a4194(0x1a4)](_0x2a4194(0x11a))[_0x2a4194(0x197)],_0x2fe42b=document[_0x2a4194(0x1a4)]('noKamehamehas')[_0x2a4194(0x197)],_0x287202=document[_0x2a4194(0x1a4)]('noSBC')[_0x2a4194(0x197)],_0x512e46=document['getElementById'](_0x2a4194(0x13d))[_0x2a4194(0x197)],_0x1879f0=document[_0x2a4194(0x154)](_0x2a4194(0x1a2));_0x1879f0['forEach']((_0x4c6c7f,_0x579a90)=>{const _0x574ebe=_0x2a4194;let _0x3da5fc=![],_0x365dc9=0x0;while(!_0x3da5fc){const _0x3adbc4=Math['floor'](Math[_0x574ebe(0xe7)]()*imagePaths[_0x574ebe(0x1ad)]);_0x4c6c7f[_0x574ebe(0xd8)][_0x574ebe(0x152)]=_0x574ebe(0x199)+imagePaths[_0x3adbc4]+'\x27)';const _0x5becab=_0x4c6c7f[_0x574ebe(0xd8)][_0x574ebe(0x152)],_0x2b8432=_0x5becab['slice'](_0x5becab[_0x574ebe(0x135)]('/')+0x1,_0x5becab[_0x574ebe(0x135)]('.')),[_0x42c734,_0xf44dec]=_0x2b8432[_0x574ebe(0x14f)]('_'),_0x2eba09=get_random_moves(_0x42c734,_0xf44dec);if(_0x3411c4&&noChargeSupersMoves[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x424e36&&meleeSupersMoves[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x458b41&&AOESupers['includes'](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x40e805&&ChargeUpSupers[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x11ba67&&Pizzas[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x34c40e&&LongCombos[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x2fe42b&&Kamehameha[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x287202&&sbc[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)]))continue;if(_0x512e46&&Saiyamans['includes'](_0x2eba09[_0x574ebe(0x1b8)]))continue;_0x365dc9++;if(_0x365dc9>0x3e8){alert(_0x574ebe(0x148));return;}if(!_0x40d32a[_0x574ebe(0xfb)](_0x2eba09[_0x574ebe(0x12d)])&&!_0x2b4e3f[_0x574ebe(0xfb)](_0xf44dec)){_0x3da5fc=!![];const _0x566d38=document[_0x574ebe(0x1a4)](_0x574ebe(0x175)+(_0x579a90+0x1));_0x566d38[_0x574ebe(0x105)]='Level\x20'+(_0x579a90+0x1)+_0x574ebe(0x1a3)+_0x42c734+':\x20'+_0xf44dec+'<br>Super\x20Attack:\x20'+_0x2eba09[_0x574ebe(0x12d)]+'<br>Costume:\x20'+_0x2eba09[_0x574ebe(0x11c)];}}});}function getFilteredValues(_0x1da3b5){const _0x165762=_0x559cb0,_0x13a288=document[_0x165762(0x154)](_0x165762(0x16e)+_0x1da3b5+_0x165762(0xf4));let _0x3e58e6=[];return _0x13a288[_0x165762(0x150)](_0x65fc72=>{const _0x1b432e=_0x165762;_0x3e58e6[_0x1b432e(0x137)](_0x65fc72[_0x1b432e(0x1ab)]);}),_0x3e58e6;}document['getElementById']('spin')[_0x559cb0(0xe6)](_0x559cb0(0x1a9),Roll),document['getElementById'](_0x559cb0(0x1a6))[_0x559cb0(0xe6)](_0x559cb0(0x1a9),Stop),document[_0x559cb0(0x1a4)]('darkMode')[_0x559cb0(0xe6)](_0x559cb0(0x120),function(){const _0x30504e=_0x559cb0;document[_0x30504e(0x113)][_0x30504e(0x1a8)]['toggle'](_0x30504e(0x144)),document[_0x30504e(0x1a4)]('app')[_0x30504e(0x1a8)][_0x30504e(0xde)]('dark-mode');}),document['addEventListener'](_0x559cb0(0x11d),function(){const _0x4642f7=_0x559cb0;let _0x304112=document[_0x4642f7(0x14d)]('#filters'),_0x2f81fe=_0x304112[_0x4642f7(0x14d)](_0x4642f7(0x1b2)),_0x478ccc=_0x304112[_0x4642f7(0x14d)]('.arrow'),_0x310b20=_0x304112['querySelectorAll'](_0x4642f7(0x16b));_0x2f81fe[_0x4642f7(0xe6)](_0x4642f7(0x1a9),function(){const _0x2a1abe=_0x4642f7;_0x310b20[_0x2a1abe(0x150)](function(_0x5d187d){const _0x9d24bc=_0x2a1abe;_0x5d187d['style'][_0x9d24bc(0x126)]==='none'||!_0x5d187d['style'][_0x9d24bc(0x126)]?(_0x5d187d['style'][_0x9d24bc(0x126)]=_0x9d24bc(0xd5),_0x478ccc[_0x9d24bc(0x105)]=_0x9d24bc(0xda)):(_0x5d187d[_0x9d24bc(0xd8)][_0x9d24bc(0x126)]='none',_0x478ccc['innerHTML']='&#x25BA;');});});}),document[_0x559cb0(0xe6)](_0x559cb0(0x11d),function(){const _0x3c54f7=_0x559cb0;function _0x193864(){const _0xb0dee=_0x5f33,_0x49e7bd=document[_0xb0dee(0x154)](_0xb0dee(0x16f)),_0x258092=Array['from'](_0x49e7bd)[_0xb0dee(0x122)](_0x41da82=>_0x41da82[_0xb0dee(0x197)]);_0x49e7bd[_0xb0dee(0x1ad)]===_0x258092[_0xb0dee(0x1ad)]&&(_0x49e7bd[_0x49e7bd[_0xb0dee(0x1ad)]-0x1][_0xb0dee(0x197)]=![],alert('All\x20forms\x20would\x20be\x20selected.'));}const _0xacbc3c=document['querySelectorAll'](_0x3c54f7(0x16f));_0xacbc3c['forEach'](_0x73e88a=>{const _0xe7fab4=_0x3c54f7;_0x73e88a[_0xe7fab4(0xe6)](_0xe7fab4(0x120),_0x193864);});});
+//Sub to Shenron404 for being the first premade to use this project
+const Goku = {
+    "Normal": {
+        "moves":["Kamehameha",
+        "Kaioken Kamehameha",
+        "Kaioken Assault",
+        "Spirit Bomb",
+        "Super Spirit Bomb"],
+        "costumes":[
+            "Yardrat",
+            "Turtle Hermit Gi (Turtle Symbol 1)",
+            "Turtle Hermit Gi (Turtle Symbol 2)",
+            "Turtle Hermit Gi (King Kai Symbol)",
+            "Turtle Hermit Gi",
+            "Turtle Hermit Gi (Goku Symbol 1)",
+            "Turtle Hermit Gi (Goku Symbol 2)",
+            "Whis Symbol Gi",
+            "Gi (GT)"    
+        ]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Kamehameha",
+        "Super Kamehameha",
+        "Warp Kamehameha"],
+        "costumes":["Yardrat", "Turtle Hermit Gi(Turtle Symbol 1)","Turtle Hermit Gi (Turtle Symbol 2)","Whis Symbol Gi"]
+    },
+    "Super Saiyan 2":{
+        "moves":[
+        "Kamehameha",
+        "Super Kamehameha"],
+        "costumes":["Turtle Hermit Gi","Turtle Hermit Gi (Goku Symbol 2)","Whis Symbol Gi"]
+    },
+    "Super Saiyan 3":{
+        "moves":[
+        "Kamehameha",
+        "Super Kamehameha",
+        "Warp Kamehameha"],
+        "costumes":["Turtle Hermit Gi","Turtle Hermit Gi (Goku Symbol 2)"]
+    },
+    "Super Saiyan God":{
+        "moves": [
+        "Kamehameha",
+        "Super Kamehameha",
+        "God Kamehameha"],
+        "costumes":["Turtle Hermit Gi (Goku Symbol 3)","Turtle Hermit Gi (Goku Symbol 4)",]
+},
+    "Super Saiyan Blue":{
+        "moves": [
+        "Kamehameha",
+        "Super Kamehameha",
+        "10X Kaioken God Kamehameha"],
+        "costumes":["Turtle Hermit Gi (Goku Symbol 1)","Turtle Hermit Gi (Goku Symbol 2)","Turtle Hermit Gi (Goku Symbol 5)"]
+    },
+}
+const Vegeta = {
+    "Normal": {
+        "moves":[
+        "Galick Gun",
+        "Full Power Energy Wave"],
+        "costumes":["Battle Suit 1","Battle Suit 2","Battle Suit 3","Battle Suit 4","Battle Suit 5","Training Suit 1","Whis Symbol Battle Suit","Bad Man Shirt"]
+    },
+    "Super Saiyan": {
+        "moves":["Galick Gun",
+        "Big Bang Attack",
+        "Final Flash"],
+        "costumes":["Training Suit 1", "Training Suit 2"," Battle Suit 5", "Whis Symbol Battle Suit"]
+    },
+    "Super Saiyan 2":{
+        "moves": [
+        "Galick Gun",
+        "Full Power Energy Wave",
+        "Final Flash",
+        "Final Explosion"
+    ],"costumes":["Training Suit 1", "Training Suit 2"," Battle Suit 5", "Whis Symbol Battle Suit"]
+    },
+    "Super Saiyan God":{
+        "moves": [
+        "Galick Gun",
+        "Full Power Energy Wave",
+        "Big Bang Attack",
+        "Blazing Attack"],
+        "costumes":["Battle Suit 6"]
+    },
+    "Super Saiyan Blue":{
+        "moves": [
+        "Galick Gun",
+        "Super Galick Gun",
+        "Big Bang Attack",
+        "Final Flash"],
+        "costumes":["Battle Suit 5","Battle Suit 6"]
+    },
+}
+const ADGohan = {
+    "Normal":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Full Power Energy Wave"
+    ],"costumes":["Orange Star High School Uniform","Tracksuit Outfit","Gi","Turtle Hermit Gi"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Super Kamehameha"
+    ],
+    "costumes":["Orange Star High School Uniform","Tracksuit Outfit","Gi","Turtle Hermit Gi"]
+    },
+    "Great Saiyaman 1":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Full Power Energy Wave"],
+        "costumes":["Great Saiyaman Suit","Great Saiyaman Suit (No Helmet)","Great Saiyaman Suit (with Sunglasses)"]
+    },
+    "Beast":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Demon Ray",
+        "Special Beam Cannon (Beast)"],
+    "costumes":["Demon Clan Outfit(DBS Super Hero)"]
+    },
+}
+const TeenGohan ={
+    "Normal":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Full Power Energy Wave"
+    ],
+    "costumes":["Demon Clan Outfit(With Cape)","Demon Clan Outfit","Turtle Hermit Gi"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Kamehameha",
+        "Masenko",
+        "Full Power Energy Wave"
+    ],
+    "costumes":["Demon Clan Outfit(With Cape)","Demon Clan Outfit","Turtle Hermit Gi"]
+    },
+    "Super Saiyan 2":{
+        "moves": [
+        "Kamehameha",
+        "Father Son Kamehameha",
+        "Full Power Energy Wave",
+        "Motionless Kamehameha"
+    ],
+    "costumes":["Demon Clan Outfit(With Cape)","Demon Clan Outfit","Turtle Hermit Gi"]
+    },
+}
+const Goten = {
+    "Normal":{
+        "moves": [
+        "Kamehameha",
+        "Charge",
+        "Full Power Energy Blast Volley"
+    ],
+    "costumes":["Turtle Hermit Gi"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Kamehameha",
+        "Super Kamehameha",
+        "Charge",
+        "Full Power Energy Blast Volley"],
+        "costumes":[
+        "Turtle Hermit Gi"]
+    },
+}
+const Gogeta = {
+    "Normal":{
+        "moves": [
+        "Kamehameha",
+        "Spirit Blaster"
+    ],
+    "costumes":[
+        "Metamoran Outfit 2"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Kamehameha",
+        "Soul Punisher"
+    ],
+    "costumes":[
+        "Metamoran Outfit 1"]
+    },
+    "Super Saiyan Blue":{
+        "moves": [
+        "Super Kamehameha",
+        "Soul Punisher",
+        "God Punisher"
+    ],
+    "costumes":[
+        "Metamoran Outfit 2"]
+    },
+}
+const Bardock = {
+    "Normal":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Rebellion Spear"
+    ],
+    "costumes":[
+        "Battle Suit 1","Battle Suit 2","Battle Suit 3"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Riot Javelin",
+        "Full Power Energy Wave",
+        "Rebellion Spear"
+    ],
+    "costumes":[
+        "Battle Suit 2","Battle Suit 3"]
+    },
+}
+const SBroly = {
+    "Rage":{
+        "moves": [
+        "Powered Shell",
+        "Gigantic Charge"
+    ],
+    "costumes":[
+        "Battle Suit 1"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Powered Shell",
+        "Gigantic Charge",
+        "Gigantic Meteor"
+    ],
+    "costumes":[
+        "Battle Suit 1"]
+    },
+    "Full Power Super Saiyan":{
+        "moves": [
+        "Gigantic Roar",
+        "Powered Shell",
+        "Gigantic Charge",
+        "Gigantic Meteor"
+    ],
+    "costumes":[
+        "Battle Suit 2"]
+    },
+}
+const KidTrunks ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Full Power Energy Blast Volley",
+        "Double Buster"
+    ],
+    "costumes":[
+        "Gi"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Full Power Energy Blast Volley",
+        "Double Buster",
+        "Finish Buster"
+    ],
+    "costumes":[
+        "Gi"]
+    },
+}
+const ADTrunks ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Full Power Energy Blast Volley",
+        "Burning Attack"
+    ],
+    "costumes":[
+        "Capsule Corporation Outfit 1","Capsule Corporation Outfit 2","Adventure Outfit(GT)"]
+    },
+    "Super Saiyan":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Burning Slash",
+        "Burning Attack",
+        "Heat Dome Attack"
+    ],
+    "costumes":[
+        "Capsule Corporation Outfit 1","Capsule Corporation Outfit 2","Adventure Outfit(GT)"]
+    },
+    "Super Saiyan 2":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Burning Slash",
+        "Super Galick Gun"
+    ],
+    "costumes":[
+        "Capsule Corporation Outfit 3"]
+    },
+    /*"Super Saiyan Rage": [
+        "Full Power Energy Blast Volley",
+        "Burning Slash",
+        "Burning Attack",
+        "Heat Dome Attack"
+    ],*/
+
+}
+const Beerus = {
+    "Normal":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Sphere of Destruction"
+    ],
+    "costumes":[
+        "God of Destruction's Outfit"]
+    },
+}
+const Whis = {
+    "Normal":{
+        "moves": [
+        "Prelude to Destruction",
+        "Symphonic Destruction"
+    ],
+    "costumes":[
+        "God of Destruction's Attendant's Garb"]
+    },
+}
+const Piccolo = {
+    "Normal":{
+        "moves": [
+        "Evil Explosion",
+        "Special Beam Cannon",
+        "Hellzone Grenade",
+        "Light Grenade"
+    ],
+    "costumes":["Demon Clan Outfit(With Cape)","Demon Clan Outfit","Driving School Unifrom"]
+    },
+    "Orange":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Special Beam Cannon",
+        "Apocalyptic Burst",
+        "Fierce Fist"
+    ],
+    "costumes":["Demon Clan Outfit(DBS Hero)"]
+    },
+}
+const Frieza = {
+    "4th Form":{
+        "moves": [
+        "Death Slicer",
+        "Death Ball"
+    ],
+    "costumes":["4th Form"]
+    },
+    "Golden":{
+        "moves": [
+        "Crazy Finger Shot",
+        "Emperor's Death Beam",
+        "Death Slicer"
+    ],
+    "costumes":["Golden"]
+    },
+}
+const Cell = {
+    "Perfect Form":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Special Beam Cannon",
+        "Kamehwameha",
+        "Perfect Kamehameha"
+    ],
+    "costumes":["Perfect Form"]
+    },
+}
+const Buu = {
+    "Innocent":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Innocence Cannon"
+    ],
+    "costumes":["Majin Outfit 1"]
+    },
+    "Kid":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Majin Kamehameha",
+        "Vanishing Ball"
+    ],
+    "costumes":["Majin Outfit 2"]
+    },
+
+}
+const GTPan = {
+    "Normal":{
+        "moves": [
+        "Maiden Blast",
+        "Full Power Energy Wave",
+        "Kamehameha",
+    ],
+    "costumes":["Red T-Shirt Outfit"]
+    },
+}
+const An16 = {
+    "Normal":{
+        "moves": [
+        "Rocket Punch",
+        "Hell Flash",
+    ],
+    "costumes":["Red Ribbon Army Suit"]
+    },
+}
+const An17 = {
+    "Normal":{
+        "moves": [
+        "Side Bridge",
+        "Full Power Energy Blast Volley",
+        "Super Electric Strike",
+    ],
+    "costumes":["Favorite Outfit 1","Favorite Outfit 2"]
+    },
+}
+const An18 = {
+    "Normal":{
+        "moves": [
+        "Destructo-Disc",
+        "Full Power Energy Blast Volley",
+        "Dual Destructo-Disc",
+    ],
+    "costumes":["Denim Vest","Long Sleeves", "Denim Jeans Outfit"]
+    },
+}
+const Ginyu = {
+    "Normal":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Full Power Energy Wave",
+        "Milky Cannon",
+    ],
+    "costumes":["Battle Suit 1", "Battle Suit 2"]
+    },
+}
+const Videl ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Full Power Energy Wave",
+        "Justice Rush",
+    ],
+    "costumes":["Training T-Shirt", "FIGHT T-Shirt"]
+    },
+    "Great Saiyaman 2":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Full Power Energy Wave",
+        "Justice Combination",
+    ],
+    "costumes":["Great Saiyman Suit", "Great Saiyman Suit (No Helmet)"]
+    },
+}
+const Krillin ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Kamehameha",
+        "Destructio-Disc",
+        "Chain Destructo-Disc Barrage",
+        "Super Destructo-Disc"
+    ],
+    "costumes":["Turtle Hermit Gi(Turtle Symbol 1)","Turtle Hermit Gi (Turtle Symbol 2)","Battle Suit","Orin Temple Gi"]
+    },
+}
+const Tien ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Wave",
+        "Tri Beam",
+        "Dodon Ray"
+    ],
+    "costumes":["Gi 1"," Gi 2"]
+    },
+}
+const Yamcha ={
+    "Normal":{
+        "moves": [
+        "Full Power Energy Blast Volley",
+        "Kamehameha",
+        "Full Power Energy Wave",
+        "Wolf Fang Fist",
+        "Spirit Ball"
+    ],
+    "costumes":["Turtle Hermit Gi(Turtle Symbol)","Yamcha's Outfit","Baseball Outfit"]
+    },
+}
+const GokuBlack = {
+    "Normal":{
+        "moves": [
+        "Black Kamehameha",
+        "Super Black Kamehameha",
+    ],
+    "costumes":["Black Gi",]
+    },
+    "Super Saiyan Rosé":{
+        "moves": [
+        "Super Black Kamehameha Rosé",
+        "Crimson Edge"
+    ],
+    "costumes":["Black Gi"]
+    },
+}
+const Vegito ={
+    "Normal":{
+        "moves": [
+        "Split Finger Shot",
+        "Finish Breaker",    
+        "Kamehameha",
+    ],
+    "costumes":["Martial Arts Uniform",]
+    },
+    //Not yet
+    "Super Saiyan Blue":{
+        "moves": [
+        "Split Finger Shot",
+        "Final Kamehameha",
+        "Kamehameha",
+        "Finish Breaker"
+    ],
+    "costumes":["Martial Arts Uniform",]
+    },
+}
+function get_random_moves(character, form) {
+    // Randomly select a characters super attack and return character form and super
+    const TFMap = {
+        "Goku": Goku,
+        "Vegeta": Vegeta,
+        "Adult Gohan": ADGohan,
+        "Teen Gohan": TeenGohan,
+        "Goten": Goten,
+        "Gogeta": Gogeta,
+        "Bardock": Bardock,
+        "SBroly": SBroly,
+        "Kid Trunks": KidTrunks,
+        "Adult Trunks":ADTrunks,
+        "Beerus": Beerus,
+        "Whis": Whis,
+        "Piccolo": Piccolo,
+        "Frieza": Frieza,
+        "Cell": Cell,
+        "Buu": Buu,
+        "GTPan": GTPan,
+        "Android 16": An16,
+        "Android 17": An17,
+        "Android 18": An18,
+        "Ginyu": Ginyu,
+        "Videl": Videl,
+        "Krillin": Krillin,
+        "Tien": Tien,
+        "Yamcha": Yamcha,
+        "Goku Black": GokuBlack,
+        "Vegito": Vegito,
+    }
+    const transformations = TFMap[character][form];
+    const move = transformations.moves[Math.floor(Math.random() * transformations.moves.length)];
+    const costume = transformations.costumes[Math.floor(Math.random() * transformations.costumes.length)];
+    return { name: character, form, move,costume };
+}
+//array of paths
+const imagePaths = [
+    "Resize/Goku_Normal_500x500.png",
+    "Resize/Goku_Super Saiyan_500x500.png",
+    "Resize/Goku_Super Saiyan 2_500x500.png",
+    "Resize/Goku_Super Saiyan 3_500x500.png",
+    "Resize/Goku_Super Saiyan God_500x500.png",
+    "Resize/Goku_Super Saiyan Blue_500x500.png",
+    "Resize/Vegeta_Normal_500x500.png",
+    "Resize/Vegeta_Super Saiyan_500x500.png",
+    "Resize/Vegeta_Super Saiyan 2_500x500.png",
+    "Resize/Vegeta_Super Saiyan God_500x500.png",
+    "Resize/Vegeta_Super Saiyan Blue_500x500.png",
+    "Resize/Adult Gohan_Normal_500x500.png",
+    "Resize/Adult Gohan_Super Saiyan_500x500.png",
+    "Resize/Adult Gohan_Great Saiyaman 1_500x500.png",
+    "Resize/Adult Gohan_Beast_500x500.png",
+    "Resize/Teen Gohan_Normal_500x500.png",
+    "Resize/Teen Gohan_Super Saiyan_500x500.png",
+    "Resize/Teen Gohan_Super Saiyan 2_500x500.png",
+    "Resize/Goten_Normal_500x500.png",
+    "Resize/Goten_Super Saiyan_500x500.png",
+    "Resize/Gogeta_Normal_500x500.png",
+    "Resize/Gogeta_Super Saiyan_500x500.png",
+    "Resize/Gogeta_Super Saiyan Blue_500x500.png",
+    "Resize/Bardock_Normal_500x500.png",
+    "Resize/Bardock_Super Saiyan_500x500.png",
+    "Resize/SBroly_Rage_500x500.png",
+    "Resize/SBroly_Super Saiyan_500x500.png",
+    "Resize/SBroly_Full Power Super Saiyan_500x500.png",
+    "Resize/Kid Trunks_Normal_500x500.png",
+    "Resize/Kid Trunks_Super Saiyan_500x500.png",
+    "Resize/Adult Trunks_Normal_500x500.png",
+    "Resize/Adult Trunks_Super Saiyan_500x500.png",
+    "Resize/Beerus_Normal_500x500.png",
+    "Resize/Whis_Normal_500x500.png",
+    "Resize/Piccolo_Normal_500x500.png",
+    "Resize/Piccolo_Orange_500x500.png",
+    "Resize/Frieza_4th Form_500x500.png",
+    "Resize/Frieza_Golden_500x500.png",
+    "Resize/Cell_Perfect Form_500x500.png",
+    "Resize/Buu_Innocent_500x500.png",
+    "Resize/Buu_Kid_500x500.png",
+    "Resize/GTPan_Normal_500x500.png",
+    "Resize/Android 16_Normal_500x500.png",
+    "Resize/Android 17_Normal_500x500.png",
+    "Resize/Android 18_Normal_500x500.png",
+    "Resize/Ginyu_Normal_500x500.png",
+    "Resize/Videl_Normal_500x500.png",
+    "Resize/Videl_Great Saiyaman 2_500x500.png",
+    "Resize/Krillin_Normal_500x500.png",
+    "Resize/Tien_Normal_500x500.png",
+    "Resize/Yamcha_Normal_500x500.png",
+    "Resize/Goku Black_Normal_500x500.png",
+    "Resize/Vegito_Normal_500x500.png",
+    "Resize/Vegito_Super Saiyan Blue_500x500.png",
+    "Resize/Goku Black_Super Saiyan Rosé_500x500.png",
+    "Resize/Adult Trunks_Super Saiyan 2_500x500.png"
+];
+let isRolling = false;
+function Roll(){
+    if(isRolling){
+        console.log("ROLLING ALREADY")
+        alert("ROLLING ALREADY")
+        return;
+    }
+    console.log('Rolling')
+    isRolling = true;
+    const boxes = document.querySelectorAll('.boxes')
+    rollInterval = setInterval(() => { //Start the rolling mtfs
+        boxes.forEach(box => {
+          const randomImageIndex = Math.floor(Math.random() * imagePaths.length);
+          box.style.backgroundImage = "url('" + imagePaths[randomImageIndex] + "')";
+        });
+    }, 100);
+}
+const noChargeSupersMoves = ["Gigantic Charge","Rebellion Spear","Charge","Fierce Fist","Heat Dome Attack"];
+const meleeSupersMoves = ["Kaioken Assault", "Burning Slash", "Symphonic Destruction", "Apocalyptic Burst","Justice Rush","Justice Combination","Wolf Fang Fist","Crimson Edge"];
+const Saiyamans = ["Great Saiyaman 1","Great Saiyaman 2"]
+const AOESupers = ["Big Bang Attack","Riot Javelin","Blazing Attack","Gigantic Meteor","Innocence Cannon","Milky Cannon","Blaster Shell" ,"Soul Punisher","Maiden Blast","Light Grenade","Burning Attack"]
+const ChargeUpSupers =["Spirit Bomb", "Super Spirit Bomb","Death Ball","Sphere of Destruction","Hellzone Grenade","Vanishing Ball","Finish Buster"]
+const Pizzas = ["Destructio-Disc","Chain Destructo-Disc Barrage","Dual Destructo-Disc","Death Slicer","Super Destructo-Disc"]
+const LongCombos = ["Demon Ray","Chain Destructo-Disc Barrage","God Punisher","Dual Destructo-Disc","Spirit Ball"]
+const Kamehameha = ["Kamehameha","Kaioken Kamehameha","Super Kamehameha","Warp Kamehameha", "God Kamehameha", "10X Kaioken God Kamehameha","Father Son Kamehameha","Motionless Kamehameha","Perfect Kamehameha","Majin Kamehameha","Black Kamehameha","Super Black Kamehameha","Super Black Kamehameha Rosé", "Final Kamehameha"]
+const sbc = ["Special Beam Cannon","Special Beam Cannon (Beast)"]
+function Stop() {
+    if(!isRolling){
+        console.log("ROLLING HAS STOPPED ALREADY")
+        alert("ROLLING HAS STOPPED ALREADY")
+        return;
+    }
+    isRolling = false;
+    console.log('stop rolling')
+    clearInterval(rollInterval);
+    const selectedMoves = getFilteredValues('move'); // Filtered moves
+    const selectedForms = getFilteredValues('form'); // Filtered forms
+    const noChargeSupersFilter = document.getElementById('noChargeSupers').checked;//Check if box is selected
+    const noMeleeSupersFilter = document.getElementById('noMeleeSupers').checked;
+    const noAOESupersFilter=document.getElementById('noAOESupers').checked;
+    const noChargeUpSupersFilter = document.getElementById('noChargeUpSupers').checked
+    const noDiscSupersFilter=document.getElementById('noDiscSupers').checked;
+    const noLongCombosFilter=document.getElementById('noLongCombos').checked;
+    const noKamehamehasFilter=document.getElementById('noKamehamehas').checked;
+    const noSBCFilter=document.getElementById('noSBC').checked;
+    const Saiyaman = document.getElementById('Hero').checked;
+    const boxes = document.querySelectorAll('.boxes')
+    boxes.forEach((box, index) => {
+        let validSelection = false;
+        let attempts = 0;
+        while (!validSelection) {
+            const randomImageIndex = Math.floor(Math.random() * imagePaths.length);
+            box.style.backgroundImage = "url('" + imagePaths[randomImageIndex] + "')";
+            const ImgUrl = box.style.backgroundImage;
+            const imageName = ImgUrl.slice(ImgUrl.lastIndexOf('/') + 1, ImgUrl.lastIndexOf('.'));
+            const [character, form] = imageName.split('_');
+            const data = get_random_moves(character, form);
+            //checks if the values dont interfere with the filters
+            if (noChargeSupersFilter && noChargeSupersMoves.includes(data.move)) {
+                continue; // Skip this move and re-select
+            }
+            if (noMeleeSupersFilter && meleeSupersMoves.includes(data.move)) {
+                continue; // Skip these moves and re-select
+            }
+            if(noAOESupersFilter && AOESupers.includes(data.move)){
+                continue; // Skip these moves and re-select
+            }
+            if(noChargeUpSupersFilter && ChargeUpSupers.includes(data.move)){
+                continue; // Skip these moves and re-select
+            }
+            if(noDiscSupersFilter && Pizzas.includes(data.move)){
+                continue;// Skip these move and re-select
+            }
+            if(noLongCombosFilter && LongCombos.includes(data.move)){
+                continue;// Skip these move and re-select
+            }
+            if(noKamehamehasFilter && Kamehameha.includes(data.move)){
+                continue;// Skip these move and re-select
+            }
+            if(noSBCFilter && sbc.includes(data.move)){
+                continue;// Skip these move and re-select
+            }
+            if(Saiyaman && Saiyamans.includes(data.form)){
+                continue; // Skip these forms and re-select
+            }
+            attempts++;
+            if (attempts > 1000) { // Threshold for attempts
+                alert("Too many filters are selected, please deselect some to allow values to return.");
+                return;
+            }
+            if (!selectedMoves.includes(data.move) && !selectedForms.includes(form)) {
+                validSelection = true;
+                const resultElement = document.getElementById(`result${index + 1}`);
+                resultElement.innerHTML = `Level ${index + 1}:<br>${character}: ${form}<br>Super Attack: ${data.move}<br>Costume: ${data.costume}`
+
+            }
+        }
+    });
+}
+function getFilteredValues(type) {
+    const checkboxes = document.querySelectorAll(`input[name="${type}"]:checked`);
+    let values = [];
+    checkboxes.forEach((checkbox) => {
+        values.push(checkbox.value);
+    });
+    return values;
+}
+document.getElementById("spin").addEventListener('click', Roll);
+document.getElementById('stop').addEventListener('click', Stop);
+document.getElementById('darkMode').addEventListener('change', function() {
+    document.body.classList.toggle('dark-mode');
+    document.getElementById('app').classList.toggle('dark-mode');
+});
+document.addEventListener('DOMContentLoaded', function() {
+    let filterContainer = document.querySelector('#filters'); // Select the container
+    let head = filterContainer.querySelector('.FilterHeader');
+    let arrow = filterContainer.querySelector('.arrow');
+    let filterGroups = filterContainer.querySelectorAll('.filter-group'); // Select all filter groups
+  
+    head.addEventListener('click', function() { // Add click event to head
+      filterGroups.forEach(function(description) { // Iterate over each filter group
+        if (description.style.display === "none" || !description.style.display) {
+          description.style.display = "block";
+          arrow.innerHTML = '&#x25BC;';
+        } else {
+          description.style.display = "none";
+          arrow.innerHTML = '&#x25BA;';
+        }
+      });
+    })
+  })
+  document.addEventListener('DOMContentLoaded', function() {
+    // Function to check if all forms are selected
+    function checkAllFormsSelected() {
+        const formCheckboxes = document.querySelectorAll('input[name="form"]');
+        const selectedForms = Array.from(formCheckboxes).filter(cb => cb.checked);
+
+        if (formCheckboxes.length === selectedForms.length) {
+            formCheckboxes[formCheckboxes.length - 1].checked = false;
+            alert("All forms would be selected.");
+        }
+    }
+
+    //Event listener for form checkboxes
+    const formCheckboxes = document.querySelectorAll('input[name="form"]');
+    formCheckboxes.forEach(checkbox => {
+        checkbox.addEventListener('change', checkAllFormsSelected);
+    });
+});
