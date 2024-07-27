@@ -38,6 +38,13 @@ const Goku = {
         "Warp Kamehameha"],
         "costumes":["Turtle Hermit Gi","Turtle Hermit Gi (Goku Symbol 2)"]
     },
+    "Super Saiyan 4":{
+        "moves":[
+        "Kamehameha",
+        "Super Kamehameha",
+        "Warp Kamehameha"],
+        "costumes":["Super Saiyan 4 Outfit"]
+    },
     "Super Saiyan God":{
         "moves": [
         "Kamehameha",
@@ -567,6 +574,7 @@ const imagePaths = [
     "Resize/Goku_Super Saiyan_500x500.png",
     "Resize/Goku_Super Saiyan 2_500x500.png",
     "Resize/Goku_Super Saiyan 3_500x500.png",
+    "Resize/Goku_Super Saiyan 4_500x500.png",
     "Resize/Goku_Super Saiyan God_500x500.png",
     "Resize/Goku_Super Saiyan Blue_500x500.png",
     "Resize/Vegeta_Normal_500x500.png",
