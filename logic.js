@@ -81,6 +81,13 @@ const Vegeta = {
         "Final Explosion"
     ],"costumes":["Training Suit 1", "Training Suit 2"," Battle Suit 5", "Whis Symbol Battle Suit"]
     },
+    "Super Saiyan 4":{
+        "moves":[
+        "Galick Gun",
+        "Big Bang Attack",
+        "Final Flash"],
+        "costumes":["Super Saiyan 4 Outfit"]
+    },
     "Super Saiyan God":{
         "moves": [
         "Galick Gun",
@@ -580,6 +587,7 @@ const imagePaths = [
     "Resize/Vegeta_Normal_500x500.png",
     "Resize/Vegeta_Super Saiyan_500x500.png",
     "Resize/Vegeta_Super Saiyan 2_500x500.png",
+    "Resize/Vegeta_Super Saiyan 4_500x500.png",
     "Resize/Vegeta_Super Saiyan God_500x500.png",
     "Resize/Vegeta_Super Saiyan Blue_500x500.png",
     "Resize/Adult Gohan_Normal_500x500.png",
