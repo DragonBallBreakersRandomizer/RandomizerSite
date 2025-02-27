@@ -59,6 +59,12 @@ const Goku = {
         "10X Kaioken God Kamehameha"],
         "costumes":["Turtle Hermit Gi (Goku Symbol 1)","Turtle Hermit Gi (Goku Symbol 2)","Turtle Hermit Gi (Goku Symbol 5)"]
     },
+    "Ultra Instinct":{
+        "moves":[
+        "Kamehameha",
+        "Super Kamehameha"],
+        "costumes":["Turtle Hermit Gi (Goku Symbol 6)"]
+    },
 }
 const Vegeta = {
     "Normal": {
@@ -577,6 +583,7 @@ const imagePaths = [
     "Resize/Goku_Super Saiyan 4_500x500.png",
     "Resize/Goku_Super Saiyan God_500x500.png",
     "Resize/Goku_Super Saiyan Blue_500x500.png",
+    "Resize/Goku_Ultra Instinct_500x500.png",
     "Resize/Vegeta_Normal_500x500.png",
     "Resize/Vegeta_Super Saiyan_500x500.png",
     "Resize/Vegeta_Super Saiyan 2_500x500.png",
